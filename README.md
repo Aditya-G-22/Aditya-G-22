@@ -15,10 +15,6 @@ I don't just train models — I ship products with them. Most ML engineers can't
 
 **Design:** UI/UX (Figma) · Graphic Design · Illustration · Video Editing · Motion Graphics
 
-## What's next
-
-I'm currently building a health/fitness AI product — shipping it publicly over the next 16 weeks. Follow along.
 
 📧 adityagarg535@gmail.com
-<!-- 🌐 [Portfolio](https://your-portfolio.com) -->
-<!-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) -->
+
