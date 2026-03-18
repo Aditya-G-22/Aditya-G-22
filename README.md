@@ -1,4 +1,4 @@
-# Hey, I'm Aditya 👋
+# Hey, I'm Aditya
 
 Final-year CSE student building at the intersection of **AI/ML** and **Design**.
 I don't just train models — I ship products with them. Most ML engineers can't design a UI. Most designers can't fine-tune a transformer. I do both.
